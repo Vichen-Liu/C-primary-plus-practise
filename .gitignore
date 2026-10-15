@@ -1,0 +1,36 @@
+# 编译产物 / Visual Studio 输出
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+*.recipe
+*.tlog
+*.lastbuildstate
+*.log
+
+# Visual Studio 用户设置
+.vs/
+*.vcxproj.user
+*.user
+*.suo
+*.sln.docstates
+
+# 编辑器
+.vscode/
+*.code-workspace
+
+# 系统
+Thumbs.db
+.DS_Store
